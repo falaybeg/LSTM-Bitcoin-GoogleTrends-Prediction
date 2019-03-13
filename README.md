@@ -7,13 +7,13 @@ Consequently LSTM algorithm predicted Bitcoin Close prices better than we expect
 
 Images
 ---
-Prediction Plot
-<img src="/images/3D-PredictionPlot.png" width="60%" height="60%" />
-Result of loss value after every epoch
-<img src="/images/3D-LossValuePlot.png" width="60%" height="60%" />
-Distribution of columns 
-<img src="/images/3D-DistributionColumns.png" width="60%" height="60%" />
+Prediction Plot<br/>
+<img src="/images/3D-PredictionPlot.png"  />
+Result of loss value after every epoch<br/>
+<img src="/images/3D-LossValuePlot.png" />
+Distribution of columns <br/>
+<img src="/images/3D-DistributionColumns.png" />
 
 
-Recurrent Neural Network (RNN), LSTM (Long Short-Time Memory), Bitcoin, Google Trends, Prediction
+Recurrent Neural Network (RNN), LSTM (Long Short-Time Memory), Bitcoin, Google Trends, Prediction, Deep Learning
 
